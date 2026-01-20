@@ -1,7 +1,7 @@
 # capstone-project
 
 Ahmad Soboh 300294253 asobo058@uottawa.ca
-
+Aparna Kagini 300319243 akagi048@uottawa.ca
 
 ## Client:
 Johanne Seguin
