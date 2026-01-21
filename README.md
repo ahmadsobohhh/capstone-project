@@ -4,6 +4,8 @@ Ahmad Soboh 300294253 asobo058@uottawa.ca
 
 Aparna Kagini 300319243 akagi048@uottawa.ca
 
+Pamir Habib 300284009 phabi014@uottawa.ca
+
 ## Client:
 Johanne Seguin
 seguijoh@gmail.com
