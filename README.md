@@ -8,6 +8,8 @@ Pamir Habib 300284009 phabi014@uottawa.ca
 
 Abdu-Rahman Barkhad 300296318 abark023@uottawa.ca
 
+Zeenat Anjum 300303108 zanju013@uottawa.ca
+
 ## Client:
 Johanne Seguin
 seguijoh@gmail.com
